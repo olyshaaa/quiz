@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Handjet:wght@600;800;900&family=Kanit&family=Montserrat:ital,wght@0,500;1,400&display=swap');
+
+
+a{
+    text-decoration: none;
+
+
+
+}
+
+.results-title{
+    font-size: 1.8rem;
+    background-color: #FAF3F0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #333333;
+    border-radius: 15px;
+    padding-right: 1px;
+}
+
+img{
+   width: 50%;
+}
+
+a{
+    color: black;
+    font-size: 1.7rem;
+    transition: 0.2s;;
+
+}
+a:hover{
+   background-color: #FAF3F0;
+   border-radius: 15px;
+
+}
+
+.results-wrap{
+    background-color: white;
+    width: 50%;
+    height: auto;
+    border-radius: 25px;
+    margin: 0 auto;
+    margin-top: 10%;
+    display: grid;
+    place-items: center;
+}
